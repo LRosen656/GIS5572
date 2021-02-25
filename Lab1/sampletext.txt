@@ -1,6 +1,0 @@
-https://ndawn.ndsu.nodak.edu/get-table.html?station=78&variable=hdt&variable=hdrh&variable=hdbst&variable=hdtst&variable=hdws&variable=hdmxws&variable=hdwd&variable=hdsdwd&variable=hdsr&variable=hdr&variable=hdbp&variable=hddp&variable=hdwc&variable=hdt9&variable=hdrh9&variable=hdws10&variable=hdmxws10&variable=hdwd10&
-variable=hdsdwd10&
-ttype=hourly&
-quick_pick=&
-begin_date=2021-02-03&
-end_date=2021-02-03
