@@ -1,0 +1,440 @@
+Begin route Route1
+
+1: Start at Warehouse
+
+2: Go east on Lone Oak Road toward Vince Trail / Timberwood Trail
+Drive 0.9 miles ~ 1 minute
+
+3: Turn left on Interstate 35E
+Drive 5.8 miles ~ 6 minutes
+
+4: Continue forward on NB I35E To Ayd Mill Rd
+Drive 477 feet ~ < 1 minute
+
+5: Continue forward on Randolph Avenue
+Drive 42 feet ~ < 1 minute
+
+6: Continue forward on NB I35E To Ayd Mill Rd
+Drive 0.4 miles ~ < 1 minute
+
+7: Turn right on Lexington Parkway South, then turn left on Ayd Mill Road
+Drive 1.4 miles ~ 2 minutes
+
+8: Bear right on Selby Avenue
+Drive 0.2 miles ~ < 1 minute
+
+9: Turn right on Snelling Avenue North
+Drive 6.4 miles ~ 9 minutes
+
+10: Continue forward on Highway 51
+Drive 1.7 miles ~ 2 minutes
+
+11: Continue forward on NB Hwy 51 To Hamline
+Drive 0.1 miles ~ < 1 minute
+
+12: Turn left on Highway 10
+Drive 2.4 miles ~ 2 minutes
+
+13: Continue forward on NB Hwy 10 To Mounds View Blvd
+Drive 0.1 miles ~ < 1 minute
+
+14: Continue forward on NB I35W to Mounds View Blvd
+Drive 0.3 miles ~ < 1 minute
+
+15: Continue forward on Mounds View Boulevard
+Drive 2.3 miles ~ 3 minutes
+
+16: Continue forward on County Road 10 Northeast
+Drive 0.6 miles ~ < 1 minute
+
+17: Turn right on Highway 65 Northeast
+Drive 0.3 miles ~ < 1 minute
+
+18: Continue forward on Central Avenue Northeast
+Drive 0.7 miles ~ < 1 minute
+
+19: Turn left on Highway 10 Northeast
+Drive 7.0 miles ~ 6 minutes
+
+20: Turn left on Main Street Northwest
+Drive 0.5 miles ~ < 1 minute
+
+21: Turn right on Riverdale Boulevard Northwest
+Drive 438 feet ~ < 1 minute
+
+22: Arrive at 12547 Riverdale Blvd, Coon Rapids, MN 55448, on the right
+
+23: Depart 12547 Riverdale Blvd, Coon Rapids, MN 55448
+
+24: Go north on Riverdale Boulevard Northwest
+Drive 0.5 miles ~ < 1 minute
+
+25: Turn right on Round Lake Boulevard Northwest
+Drive 0.2 miles ~ < 1 minute
+
+26: Turn left on Highway 10 Northwest
+Drive 1.6 miles ~ 2 minutes
+
+27: Turn left on Ferry Street
+Drive 1.0 miles ~ 2 minutes
+
+28: Continue forward on Highway 169
+Drive 0.2 miles ~ < 1 minute
+
+29: Turn right on Dayton Road
+Drive 0.4 miles ~ < 1 minute
+
+30: Turn left on French Lake Road
+Drive 0.6 miles ~ < 1 minute
+
+31: Turn right at Elm Creek Crossing / Brookside Trail North to stay on French Lake Road
+Drive 0.4 miles ~ < 1 minute
+
+32: Continue forward on 129th Avenue North
+Drive 1.9 miles ~ 2 minutes
+
+33: Continue forward on Fernbrook Lane North
+Drive 3.5 miles ~ 4 minutes
+
+34: Turn right on Highway 610
+Drive 0.5 miles ~ < 1 minute
+
+35: Turn left on Maple Grove Parkway North
+Drive 0.2 miles ~ < 1 minute
+
+36: Turn right on Grove Circle North
+Drive 0.3 miles ~ < 1 minute
+
+37: Turn left on Hospital Drive North
+Drive 0.1 miles ~ < 1 minute
+
+38: Arrive at 9875 Hospital Dr, Maple Grove, MN 55369, on the right
+
+39: Depart 9875 Hospital Dr, Maple Grove, MN 55369
+
+40: Continue south on Hospital Drive North
+Drive 0.1 miles ~ < 1 minute
+
+41: Turn left on Maple Grove Parkway North
+Drive 0.4 miles ~ < 1 minute
+
+42: Turn right on Ramp
+Drive 0.4 miles ~ < 1 minute
+
+43: Continue forward on Highway 610
+Drive 0.5 miles ~ < 1 minute
+
+44: Bear right on County Road 81
+Drive 9.7 miles ~ 12 minutes
+
+45: Turn right on Lake Drive
+Drive 190 feet ~ < 1 minute
+
+46: Continue forward on 42nd Avenue North
+Drive 201 feet ~ < 1 minute
+
+47: Turn left on West Broadway
+Drive 253 feet ~ < 1 minute
+
+48: Arrive at 4165 W Broadway Ave, Robbinsdale, MN 55422, on the right
+
+49: Depart 4165 W Broadway Ave, Robbinsdale, MN 55422
+
+50: Continue southeast on West Broadway
+Drive 0.1 miles ~ < 1 minute
+
+51: Turn left on 41st Avenue North
+Drive 380 feet ~ < 1 minute
+
+52: Turn right on County Road 81
+Drive 1.2 miles ~ 2 minutes
+
+53: Turn right on Abbott Avenue North
+Drive 0.1 miles ~ < 1 minute
+
+54: Turn left on Oakdale Avenue North
+Drive 0.1 miles ~ < 1 minute
+
+55: Arrive early at 3300 Oakdale Ave N, Robbinsdale, MN 55422, on the right
+Time Window: 12/23/2019 10:00 AM - 12/23/2019 11:00 AM
+Wait Time: 51 minutes
+Service Time: < 1 minute
+
+56: Depart 3300 Oakdale Ave N, Robbinsdale, MN 55422
+
+57: Continue southeast on Oakdale Avenue North
+Drive 0.1 miles ~ < 1 minute
+
+58: Bear right on County Road 81
+Drive 100 feet ~ < 1 minute
+
+59: Continue forward on West Broadway
+Drive 0.8 miles ~ 1 minute
+
+60: Turn right on Penn Avenue North
+Drive 1.6 miles ~ 3 minutes
+
+61: Turn right on Glenwood Avenue
+Drive 331 feet ~ < 1 minute
+
+62: Turn left on Queen Avenue North, then turn right on Inglewood Avenue
+Drive 0.2 miles ~ < 1 minute
+
+63: Turn right on Thomas Avenue North
+Drive 17 feet ~ < 1 minute
+
+64: Arrive at 225 Thomas Ave N #700, Minneapolis, MN 55405, on the left
+Time Window: 12/23/2019 10:00 AM - 12/23/2019 11:00 AM
+
+65: Depart 225 Thomas Ave N #700, Minneapolis, MN 55405
+
+66: Go back southeast on Thomas Avenue North
+Drive 17 feet ~ < 1 minute
+
+67: Turn left on Inglewood Avenue
+Drive 0.2 miles ~ < 1 minute
+
+68: Turn left on Queen Avenue North, then turn right on Glenwood Avenue
+Drive 1.6 miles ~ 3 minutes
+
+69: Turn right on 10th Street North
+Drive 0.1 miles ~ < 1 minute
+
+70: Turn left on Hawthorne Avenue
+Drive 0.1 miles ~ < 1 minute
+
+71: Turn right on 8th Street North
+Drive 1.4 miles ~ 3 minutes
+
+72: Continue forward on Hiawatha Avenue
+Drive 5.1 miles ~ 7 minutes
+
+73: Continue forward on Highway 55
+Drive 0.4 miles ~ < 1 minute
+
+74: Continue forward on Minnehaha Avenue
+Drive 325 feet ~ < 1 minute
+
+75: Turn left on Highway 62
+Drive 0.1 miles ~ < 1 minute
+
+76: Continue forward on Highway 55
+Drive 2.5 miles ~ 3 minutes
+
+77: Turn right on Highway 13
+Drive 0.2 miles ~ < 1 minute
+
+78: Turn left on Pilot Knob Road
+Drive 1.7 miles ~ 2 minutes
+
+79: Turn right on Lone Oak Road
+Drive 0.2 miles ~ < 1 minute
+
+80: Finish at Warehouse, on the left
+
+Total time: 2 hours 25 minutes
+Total distance: 72 miles
+Total wait time: 51 minutes
+Start time: 12/23/2019 8:00 AM
+Finish time: 12/23/2019 10:25 AM
+
+End of route Route1
+
+Begin route Route2
+
+1: Start at Warehouse
+
+2: Go east on Lone Oak Road toward Vince Trail / Timberwood Trail
+Drive 0.2 miles ~ < 1 minute
+
+3: Turn left on Pilot Knob Road
+Drive 1.7 miles ~ 2 minutes
+
+4: Turn right on Highway 13
+Drive 0.2 miles ~ < 1 minute
+
+5: Turn left on Highway 55
+Drive 1.9 miles ~ 2 minutes
+
+6: Continue forward on Ramp
+Drive 0.4 miles ~ < 1 minute
+
+7: Continue forward on Highway 55
+Drive 0.3 miles ~ < 1 minute
+
+8: Continue forward on Highway 62
+Drive 0.1 miles ~ < 1 minute
+
+9: Turn right on Minnehaha Avenue
+Drive 267 feet ~ < 1 minute
+
+10: Continue forward on Highway 55
+Drive 0.4 miles ~ < 1 minute
+
+11: Continue forward on Hiawatha Avenue
+Drive 3.6 miles ~ 5 minutes
+
+12: Turn left on Lake Street East
+Drive 1.1 miles ~ 2 minutes
+
+13: Arrive at 920 E Lake St #123, Minneapolis, MN 55407, on the right
+
+14: Depart 920 E Lake St #123, Minneapolis, MN 55407
+
+15: Go back east on Lake Street East
+Drive 246 feet ~ < 1 minute
+
+16: Turn left on 10th Avenue South
+Drive 0.7 miles ~ 1 minute
+
+17: Turn right on 24th Street East, then turn left on 10th Avenue South
+Drive 0.1 miles ~ < 1 minute
+
+18: Turn right on 22nd Street East
+Drive 376 feet ~ < 1 minute
+
+19: Turn left on 11th Avenue South
+Drive 0.9 miles ~ 2 minutes
+
+20: Make a sharp right on 4th Street South
+Drive 0.2 miles ~ < 1 minute
+
+21: Continue forward on County Road 122
+Drive 0.3 miles ~ < 1 minute
+
+22: Turn left on 19th Avenue South
+Drive 0.4 miles ~ < 1 minute
+
+23: Continue forward on 10th Avenue South
+Drive 0.7 miles ~ 1 minute
+
+24: Turn left on 8th Street Southeast, then make a sharp right on Ramp
+Drive 0.3 miles ~ < 1 minute
+
+25: Continue forward on 11th Avenue Southeast
+Drive 390 feet ~ < 1 minute
+
+26: Turn right on Hennepin Avenue East
+Drive 0.4 miles ~ < 1 minute
+
+27: Turn left on Stinson Boulevard
+Drive 0.3 miles ~ < 1 minute
+
+28: Turn right on Kennedy Street Northeast
+Drive 0.1 miles ~ < 1 minute
+
+29: Turn left on Taft Street Northeast
+Drive 0.1 miles ~ < 1 minute
+
+30: Turn right on Summer Street Northeast
+Drive 0.1 miles ~ < 1 minute
+
+31: Turn left on Harding Street Northeast
+Drive 453 feet ~ < 1 minute
+
+32: Arrive at 783 Harding St NE, Minneapolis, MN 55413, on the right
+
+33: Depart 783 Harding St NE, Minneapolis, MN 55413
+
+34: Continue north on Harding Street Northeast
+Drive 209 feet ~ < 1 minute
+
+35: Turn left on Broadway Street Northeast
+Drive 1.7 miles ~ 3 minutes
+
+36: Turn left on Adams Street Northeast
+Drive 286 feet ~ < 1 minute
+
+37: Turn right on Old Saint Anthony Lane
+Drive 327 feet ~ < 1 minute
+
+38: Turn left on Washington Street Northeast, then make a sharp right on 6th Street Northeast
+Drive 487 feet ~ < 1 minute
+
+39: Turn left on 8th Avenue Northeast
+Drive 0.8 miles ~ 2 minutes
+
+40: Continue forward on Plymouth Avenue North
+Drive 0.3 miles ~ < 1 minute
+
+41: Turn left on 2nd Street North
+Drive 348 feet ~ < 1 minute
+
+42: Turn right on 10th Avenue North
+Drive 0.3 miles ~ < 1 minute
+
+43: Turn left on 5th Street North
+Drive 0.2 miles ~ < 1 minute
+
+44: Arrive at 701 N 5th St, Minneapolis, MN 55401, on the right
+
+45: Depart 701 N 5th St, Minneapolis, MN 55401
+
+46: Continue southeast on 5th Street North
+Drive 0.4 miles ~ < 1 minute
+
+47: Turn right on Interstate 394
+Drive 0.8 miles ~ 1 minute
+
+48: Continue forward on Ramp
+Drive 0.4 miles ~ < 1 minute
+
+49: Continue forward on HOV/HOT reversible lane
+Drive 2.1 miles ~ 2 minutes
+
+50: Continue forward on Ramp
+Drive 0.3 miles ~ < 1 minute
+
+51: Turn left on Highway 100 South
+Drive 0.6 miles ~ < 1 minute
+
+52: Turn right on Cedar Lake Road
+Drive 0.3 miles ~ < 1 minute
+
+53: Make a U-turn at Parkdale Drive and go back on Cedar Lake Road
+Drive 393 feet ~ < 1 minute
+
+54: Arrive at 5525 Cedar Lake Rd S, St Louis Park, MN 55416, on the right
+
+55: Depart 5525 Cedar Lake Rd S, St Louis Park, MN 55416
+
+56: Continue southeast on Cedar Lake Road
+Drive 0.2 miles ~ < 1 minute
+
+57: Make a sharp right on Highway 100 South
+Drive 7.0 miles ~ 8 minutes
+
+58: Continue forward on Normandale Boulevard
+Drive 0.2 miles ~ < 1 minute
+
+59: Turn left on Interstate 494
+Drive 4.6 miles ~ 5 minutes
+
+60: Turn right on 12th Avenue South, then turn left on 78th Street East
+Drive 0.1 miles ~ < 1 minute
+
+61: Arrive at 1321 E 78th St, Bloomington, MN 55425, on the right
+
+62: Depart 1321 E 78th St, Bloomington, MN 55425
+
+63: Go back west on 78th Street East
+Drive 0.1 miles ~ < 1 minute
+
+64: Turn right on 12th Avenue South, then turn right on Interstate 494
+Drive 4.0 miles ~ 4 minutes
+
+65: Turn right on Sibley Memorial Highway
+Drive 1.0 miles ~ 1 minute
+
+66: Make a sharp left on Lone Oak Road
+Drive 0.6 miles ~ < 1 minute
+
+67: Finish at Warehouse, on the right
+
+Total time: 55 minutes
+Total distance: 41 miles
+Start time: 12/23/2019 8:00 AM
+Finish time: 12/23/2019 8:55 AM
+
+End of route Route2
+

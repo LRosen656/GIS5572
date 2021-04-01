@@ -1,2 +1,5 @@
 "/*Shapefiles"
 "/*shapefiles"
+"*.shp"
+"*.laz"
+"*.las"
